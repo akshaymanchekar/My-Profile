@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Akshay Manchekar!</h1>
+<h1 align="center">👋 Hi!, I'm Akshay Manchekar!</h1>
 <h3 align="center">Business & Data Analyst Enthusiast 🚀</h3>
 
 <p align="center">
